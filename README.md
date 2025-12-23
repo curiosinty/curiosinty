@@ -36,12 +36,12 @@ This GitHub serves as a portfolio of learning, tooling, and applied projects acr
 ### Cybersecurity
 | Course | Provider | Year | Certificate |
 |------|----------|------|-------------|
-| Pre-Security | TryHackMe | 2025 | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LLSYIISXN9.pdf) |
+| **[Pre-Security](https://tryhackme.com/path/outline/presecurity)** | TryHackMe | 2025 | [View](https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-LLSYIISXN9.pdf) |
 
 ### Programming
 | Course | Language / Stack | Year | Certificate |
 |------|------------------|------|-------------|
-| [Angela Yu's 100 Days of Code](https://www.udemy.com/course/100-days-of-code) | Python | 2025 | In Progress |
+| **[Angela Yu's 100 Days of Code](https://www.udemy.com/course/100-days-of-code)** | Python | 2025 | In Progress |
 
 ---
 
