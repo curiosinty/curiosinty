@@ -11,7 +11,7 @@ I'm an OSINT industry professional focused on continuous upskilling. I primarily
 ---
 
 ## Skills Snapshot
-- **OSINT**: 5yrs professional XP. Data collection, analysis & reporting.
+- **OSINT**: 5 years professional experience. Data collection, analysis & reporting.
 - **Cybersecurity**: Undergoing training.
 - **Programming**: Automation & scripting (Python), database querying (SQL).
 - **Languages**: 🇬🇧🇨🇳🇩🇪🇮🇹
