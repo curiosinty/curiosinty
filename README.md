@@ -4,7 +4,9 @@ I'm an OSINT industry professional focused on continuous upskilling. I primarily
 
 **What is this Github for?**
 
-This GitHub serves as a portfolio of learning, tooling, and applied projects across OSINT, cybersecurity, and programming (Python & SQL). I'll also put in CTF writeups from time to time.
+This GitHub serves as a portfolio of learning, tooling, and applied projects across OSINT, cybersecurity, and programming (Python & SQL). 
+
+This repo will also include writeups of OSINT CTFs that I've participated in as of 2026.
 
 ---
 
