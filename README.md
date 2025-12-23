@@ -12,6 +12,7 @@ This GitHub serves as a portfolio of learning, tooling, and applied projects acr
 - **OSINT**: 5yrs professional XP. Data collection, analysis & reporting.
 - **Cybersecurity**: Undergoing training.
 - **Programming**: Automation & scripting (Python), database querying (SQL).
+  **Languages**: 🇬🇧🇨🇳🇩🇪🇮🇹
 
 ---
 
