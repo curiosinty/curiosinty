@@ -1,6 +1,6 @@
 # Hello.
 
-I'm an OSINT industry professional focused on continuous upskilling. I primarily focus on OSINT and cybersecurity.
+I'm an OSINT industry professional focused on continuous learning. I primarily focus on OSINT and cybersecurity.
 
 ## What is this Github for?
 
