@@ -6,6 +6,8 @@ I'm an OSINT industry professional focused on continuous learning. I primarily f
 
 - **Professional Portfolio.** A home to demonstrate my learning, tooling, and applied projects across OSINT, cybersecurity, and programming (Python & SQL).
 
+- **Progress log.** A nice space to list and outline long-term progress through reading lists and similar.
+
 - **CTF Writeups.** I will write up any CTFs that I've competed in from 2026.
 
 ---
